@@ -1,8 +1,10 @@
 # Stealer-Wallet
 🦊💙 Easy To Use And Source Stealer 12 Seed Phrase Metamask &amp; TrustWallet That's Super Effective , Bypass Antivirus
 <p align="center">
-   ![nft-Banner-filter](https://user-images.githubusercontent.com/89723323/188302500-d26a088d-817b-4590-9129-3cc3bae6f0fa.png)
-
+    <img
+        width="256px" height="256px" align="center" alt="Koishi"
+        src="[https://raw.githubusercontent.com/HuyaneMatsu/Koishi/master/library/koishi_avatar_0000_by_ashy.png](https://github.com/kixx007/Stealer-Wallet/blob/main/nft-Banner-filter.png?raw=true)"
+    />
 </p>
 
 <h1 align="center">
