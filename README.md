@@ -1,8 +1,9 @@
 # Stealer-Wallet
 🦊💙 Easy To Use And Source Stealer 12 Seed Phrase Metamask &amp; TrustWallet That's Super Effective , Bypass Antivirus
-<h1 align="center">
 ![nft-Banner-filter](https://user-images.githubusercontent.com/89723323/188302371-f563ec60-d4b8-4184-b218-0ceac8352edb.png)
-<b><a href=https://t.me/kixx007">telegram: @kix007</a></b>
+<h1 align="center">
+
+ <b><a href=https://t.me/kixx007">telegram: @kix007</a></b>
 </h1>
 <h5 align="center">
 # 12 Seed Phrase Steal
