@@ -3,7 +3,7 @@
 <p align="center">
     <img
         width="256px" height="256px" align="center" alt="Koishi"
-        src="[https://raw.githubusercontent.com/HuyaneMatsu/Koishi/master/library/koishi_avatar_0000_by_ashy.png](https://github.com/kixx007/Stealer-Wallet/blob/main/nft-Banner-filter.png?raw=true)"
+        src="https://raw.githubusercontent.com/kixx007/Stealer-Wallet/main/nft-Banner-filter.png"
     />
 </p>
 
