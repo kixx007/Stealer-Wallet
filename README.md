@@ -31,9 +31,7 @@
  
  ## DEMO VIDEO
  
- <iframe width="420" height="315"
-src="https://www.youtube.com/watch?v=imiBhSEQnqo&ab_channel=Kixx">
-</iframe>
+ <div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/qh6zb2" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 ## BYPASS ANTIVIRUS
 ![ezI62neNoMkK](https://user-images.githubusercontent.com/89723323/188302797-c3002e3d-e52d-404e-b4ca-2b452bb14f46.png)
