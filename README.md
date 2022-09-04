@@ -3,6 +3,7 @@
 <h1 align="center">
     <b><a href=https://t.me/kixx007">telegram: @kix007</a></b>
 </h1>
+![imageedit_1_5956465029](https://user-images.githubusercontent.com/89723323/188302327-82e5f5e6-393d-43fa-8bd1-b8a991db86db.png)
 
 <h5 align="center">
 # 12 Seed Phrase Steal
