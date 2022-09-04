@@ -16,12 +16,12 @@
 </h5>
 
 <p align="center">
-    <a href="https://discord.com/oauth2/authorize?client_id=486565096164687885&scope=bot%20applications.commands">
-        Invite me!
+    <a href="https://www.youtube.com/channel/UCKdtWdhM-mmX8_3UUgnHPdw">
+        Youtube!
     </a>
     •
-    <a href="http://discord.gg/3cH2r5d">
-        Join our gang!
+    <a href="https://t.me/kixx007">
+        !
     </a>
 </p>
 
