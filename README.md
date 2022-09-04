@@ -8,7 +8,7 @@
 </p>
 
 <h1 align="center">
-    <b><a href="https://github.com/HuyaneMatsu/koishi">Koishi</a></b>
+    <b><a href="https://t.me/kixx007">Telegram: @Kixx007</a></b>
 </h1>
 
 <h5 align="center">
