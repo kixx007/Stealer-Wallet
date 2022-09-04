@@ -1,0 +1,66 @@
+2022-09-04 07:52:52.965064
+Program Initialised
+
+2022-09-04 07:52:54.201890
+Voice Assistant Status: Configuration
+
+2022-09-04 07:53:03.540543
+Hello Ed!
+
+2022-09-04 07:53:06.154158
+Voice Assistant Status: Listening
+
+2022-09-04 07:53:08.818339
+Listening...
+
+2022-09-04 07:53:11.768380
+Program recognizing
+
+2022-09-04 07:53:13.049359
+User said: oh Canada City
+
+
+2022-09-04 07:53:13.071305
+Analysing input: 'oh Canada City'
+
+2022-09-04 07:53:13.081279
+Failed to understand command.
+
+2022-09-04 07:53:19.380738
+Voice Assistant Status: Listening
+
+2022-09-04 07:53:21.778979
+Listening...
+
+2022-09-04 07:53:24.707805
+Program recognizing
+
+2022-09-04 07:53:25.873915
+User said: open obsidian
+
+
+2022-09-04 07:53:25.884242
+Analysing input: 'open obsidian'
+
+2022-09-04 07:53:28.802201
+Success!
+
+2022-09-04 07:53:31.823857
+Voice Assistant Status: Listening
+
+2022-09-04 07:53:34.213581
+Listening...
+
+2022-09-04 07:53:39.429234
+Program recognizing
+
+2022-09-04 07:53:40.370429
+User said: close program
+
+
+2022-09-04 07:53:40.379405
+Analysing input: 'close program'
+
+2022-09-04 07:53:43.323168
+Program terminated
+
