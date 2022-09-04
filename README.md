@@ -25,6 +25,12 @@
     </a>
 </p>
 
+# :construction: Disclaimer
+
+<p align="center">This program is for educational purposes only.</p>
+<p align="center">How you use this program is your responsibility.</p>
+<p align="center">I will not be held accountable for any illegal activities.</p>
+
 ## INFOMATION
 
  ![ádsad](https://user-images.githubusercontent.com/89723323/188302848-bc9b2e65-804d-4b5f-834d-c53afdd6e6c1.png)
