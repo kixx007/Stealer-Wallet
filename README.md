@@ -27,7 +27,7 @@
 
 ## INFOMATION
 
-<center> ![ádsad](https://user-images.githubusercontent.com/89723323/188302848-bc9b2e65-804d-4b5f-834d-c53afdd6e6c1.png) </center>
+<center ![ádsad](https://user-images.githubusercontent.com/89723323/188302848-bc9b2e65-804d-4b5f-834d-c53afdd6e6c1.png) </center>
 
 ## BYPASS ANTIVIRUS
 ![ezI62neNoMkK](https://user-images.githubusercontent.com/89723323/188302797-c3002e3d-e52d-404e-b4ca-2b452bb14f46.png)
