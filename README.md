@@ -21,7 +21,7 @@
     </a>
     •
     <a href="https://t.me/kixx007">
-        !
+        Telegram!
     </a>
 </p>
 
