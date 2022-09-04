@@ -24,6 +24,12 @@
         Telegram!
     </a>
 </p>
+## INFOMATION
+![ádsad](https://user-images.githubusercontent.com/89723323/188302826-616880db-321b-47ba-a009-2f48ca350565.png)
+
+## BYPASS ANTIVIRUS
+![ezI62neNoMkK](https://user-images.githubusercontent.com/89723323/188302797-c3002e3d-e52d-404e-b4ca-2b452bb14f46.png)
+
 
 ## INSTALLATION
 
