@@ -37,7 +37,7 @@
  
  ##📙 DEMO VIDEO
  
-Youtube Link DEMO VIDEO : https://www.youtube.com/watch?v=imiBhSEQnqo&ab_channel=Kixx
+Youtube Link DEMO VIDEO : https://www.youtube.com/watch?v=B38rOgDHg9g
 
 ## 🛡️BYPASS ANTIVIRUS
 ![ezI62neNoMkK](https://user-images.githubusercontent.com/89723323/188302797-c3002e3d-e52d-404e-b4ca-2b452bb14f46.png)
