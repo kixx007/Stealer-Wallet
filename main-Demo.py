@@ -44,7 +44,7 @@ def intro():
         speak("hello" + name + ", how are you today! i hope you are well")
         accounts.write("USER: " + name + "\n")
         a = True
-        while a:
+        while a:b
             main()
             time.sleep(3)
     else:
